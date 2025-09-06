@@ -73,5 +73,4 @@ for(let i=5;i>0;i--){
     else if(i==2)
         break
     console.log(i)
-
 }
